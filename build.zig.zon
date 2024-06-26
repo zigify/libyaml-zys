@@ -1,0 +1,21 @@
+.{
+    .name = "libyaml",
+    .version = "0.2.5",
+    .minimum_zig_version = "0.13.0",
+
+    .dependencies = .{
+        .statically = .{
+            .url = "https://github.com/zigify/statically/archive/94c1dacb02ea75164c1bbb1420b1a66db88fdb8e.tar.gz",
+            .hash = "1220be99d9c1e095835a8cb83cf18a2078fa2102d834eb7a4c578be6f157caf71054",
+        },
+    },
+
+    .paths = .{
+        "README",
+        "COPYING",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "include",
+    },
+}
