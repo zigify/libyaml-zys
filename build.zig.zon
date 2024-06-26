@@ -5,8 +5,8 @@
 
     .dependencies = .{
         .statically = .{
-            .url = "https://github.com/zigify/statically/archive/94c1dacb02ea75164c1bbb1420b1a66db88fdb8e.tar.gz",
-            .hash = "1220be99d9c1e095835a8cb83cf18a2078fa2102d834eb7a4c578be6f157caf71054",
+            .url = "https://github.com/zigify/statically/archive/d4ff4a5f196eb7ff7de9ba92621aaaf2b4667f61.tar.gz",
+            .hash = "122000926af4c10da3512f35ae72cafe5ed70f5ff4e289d0be4a8578d8b5bee2a28c",
         },
     },
 
