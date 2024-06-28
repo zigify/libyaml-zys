@@ -1,12 +1,12 @@
 .{
-    .name = "libyaml",
+    .name = "libyaml-zys",
     .version = "0.2.5",
     .minimum_zig_version = "0.13.0",
 
     .dependencies = .{
         .statically = .{
-            .url = "https://github.com/zigify/statically/archive/d4ff4a5f196eb7ff7de9ba92621aaaf2b4667f61.tar.gz",
-            .hash = "122000926af4c10da3512f35ae72cafe5ed70f5ff4e289d0be4a8578d8b5bee2a28c",
+            .url = "https://github.com/zigify/statically/archive/4e054dca69b4eb974d8b0369a06de23878274f26.tar.gz",
+            .hash = "1220d15497d26bea869a45ecf86e696d236b6fbcb3366aadcf934bb4b03c8c8b6263",
         },
     },
 
